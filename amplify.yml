@@ -4,7 +4,7 @@ frontend:
     preBuild:
       commands:
         - npm ci
-        - if [ "$AWS_BRANCH" = "main" ]; then export VITE_API_URL=https://lloyd.111hardware.com/api; fi
+        - if [ "$AWS_BRANCH" = "main" ]; then export VITE_API_URL=https://fortune5backend.111hardware.com/api; fi
     build:
       commands:
         - npm run build
