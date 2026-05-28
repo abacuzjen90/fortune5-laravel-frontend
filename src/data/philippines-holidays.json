@@ -1,0 +1,811 @@
+{
+  "country": "Philippines",
+  "years": "2026-2035",
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "date": "2026-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2026-02-17",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2026-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2026-04-02",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2026-04-03",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2026-04-04",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2026-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2026-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2026-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2026-08-31",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2026-11-01",
+      "type": "special"
+    },
+    {
+      "name": "All Souls' Day",
+      "date": "2026-11-02",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2026-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2026-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2026-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2026-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2026-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2027-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2027-02-06",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2027-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2027-03-25",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2027-03-26",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2027-03-27",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2027-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2027-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2027-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2027-08-30",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2027-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2027-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2027-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2027-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2027-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2027-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2028-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2028-01-26",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2028-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2028-04-13",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2028-04-14",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2028-04-15",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2028-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2028-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2028-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2028-08-28",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2028-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2028-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2028-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2028-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2028-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2028-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2029-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2029-02-13",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2029-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2029-03-29",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2029-03-30",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2029-03-31",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2029-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2029-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2029-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2029-08-27",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2029-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2029-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2029-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2029-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2029-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2029-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2030-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2030-02-03",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2030-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2030-04-18",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2030-04-19",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2030-04-20",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2030-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2030-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2030-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2030-08-26",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2030-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2030-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2030-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2030-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2030-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2030-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2031-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2031-01-23",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2031-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2031-04-10",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2031-04-11",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2031-04-12",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2031-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2031-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2031-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2031-08-25",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2031-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2031-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2031-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2031-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2031-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2031-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2032-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2032-02-11",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2032-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2032-03-25",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2032-03-26",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2032-03-27",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2032-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2032-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2032-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2032-08-30",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2032-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2032-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2032-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2032-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2032-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2032-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2033-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2033-01-31",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2033-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2033-04-14",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2033-04-15",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2033-04-16",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2033-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2033-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2033-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2033-08-29",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2033-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2033-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2033-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2033-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2033-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2033-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2034-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2034-02-19",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2034-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2034-04-06",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2034-04-07",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2034-04-08",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2034-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2034-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2034-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2034-08-28",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2034-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2034-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2034-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2034-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2034-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2034-12-31",
+      "type": "special"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2035-01-01",
+      "type": "regular"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2035-02-08",
+      "type": "special"
+    },
+    {
+      "name": "EDSA People Power Revolution",
+      "date": "2035-02-25",
+      "type": "special"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2035-03-22",
+      "type": "regular"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2035-03-23",
+      "type": "regular"
+    },
+    {
+      "name": "Black Saturday",
+      "date": "2035-03-24",
+      "type": "special"
+    },
+    {
+      "name": "Araw ng Kagitingan",
+      "date": "2035-04-09",
+      "type": "regular"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2035-05-01",
+      "type": "regular"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2035-06-12",
+      "type": "regular"
+    },
+    {
+      "name": "National Heroes Day",
+      "date": "2035-08-27",
+      "type": "special"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2035-11-01",
+      "type": "special"
+    },
+    {
+      "name": "Bonifacio Day",
+      "date": "2035-11-30",
+      "type": "regular"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2035-12-24",
+      "type": "special"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2035-12-25",
+      "type": "regular"
+    },
+    {
+      "name": "Rizal Day",
+      "date": "2035-12-30",
+      "type": "regular"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2035-12-31",
+      "type": "special"
+    }
+  ]
+}
