@@ -514,7 +514,7 @@ export default function Hardware() {
                         </tr>
                     ))) : (
                       <tr className='text-xs bg-white border-b dark:bg-gray-100 dark:border-gray-300'>
-                        <td className='px-3 py-3 text-center' colSpan={13}>Loading...</td>
+                        <td className='px-3 py-3 text-center' colSpan={13}>No Data</td>
                       </tr>
                     )}
                      </tbody>                        

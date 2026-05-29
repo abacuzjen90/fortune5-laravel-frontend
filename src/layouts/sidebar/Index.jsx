@@ -120,12 +120,12 @@ const Sidebar = () => {
 
         <NavLink to="/dashboard">
         <div className="flex items-center gap-3 font-medium border-b py-3 border-slate-300  mx-3">
-          <img
+          {/* <img
             src={lloyd_logo}
             width={70}
             alt=""
-          />
-          <span className="text-xl whitespace-pre text-slate-50">Hardware</span>
+          /> */}
+          <span className="text-xl whitespace-pre text-slate-50"> Fortune 5 Hardware</span>
         </div>
         </NavLink>
 

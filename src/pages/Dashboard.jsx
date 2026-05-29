@@ -293,7 +293,7 @@ export default function Dashboard() {
                       <tbody className="divide-y divide-gray-200">
                         {recentSales.length === 0 ? (
                           <tr>
-                            <td colSpan="7" className="text-center text-gray-500 py-6">
+                            <td colSpan="9" className="text-center text-gray-500 py-6">
                               No data found.
                             </td>
                           </tr>
