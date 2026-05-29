@@ -604,7 +604,7 @@ export default function ProductIssuance() {
                             >{item.quantity}</td>
                             {user.role === 'Manager' && (
                             <td className="px-3 py-3 text-right text-blue-900 font-bold whitespace-nowrap">
-                              ₱ {parseFloat((item.unit_type === "BIG_UNIT" ? item.big_cost : item.cost_per_unit)).toLocaleString(undefined, { minimumFractionDigits: 2 })}
+                              ₱ {parseFloat((item.unit_type === "BIG_UNIT" ? (item.big_cost || 0) : (item.cost_per_unit || 0))).toLocaleString(undefined, { minimumFractionDigits: 2 })}
                             </td>
                             )}
                             <td className={`px-3 py-2 font-bold text-right whitespace-nowrap ${
